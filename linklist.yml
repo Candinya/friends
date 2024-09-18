@@ -169,3 +169,8 @@ friends:
   description: "Computer Science & Security Learner"
   image: "/friends/images/picpo.webp"
   link: "https://picpo.top/"
+
+- title: "墨夜の博客"
+  description: "日常记录之处"
+  image: "/friends/images/inknight.webp"
+  link: "https://inknight.org"
