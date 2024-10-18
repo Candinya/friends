@@ -174,3 +174,8 @@ friends:
   description: "日常记录之处"
   image: "/friends/images/inknight.webp"
   link: "https://inknight.org"
+
+- title: "亂筆"
+  description: "夢縈枯野上"
+  image: "/friends/images/distorted-scribbles.jpg"
+  link: "https://blog.l3zc.com/"
