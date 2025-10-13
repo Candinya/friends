@@ -189,3 +189,8 @@ friends:
   description: "我喜欢和大家分享一些奇奇怪怪的东西"
   image: "/friends/images/laoxiong.webp"
   link: "https://www.moec.top/"
+
+- title: "Garden of Outlier"
+  description: "An Element-chan who writes."
+  image: "/friends/images/chlorine.webp"
+  link: "https://chlo.is/"
