@@ -194,3 +194,8 @@ friends:
   description: "An Element-chan who writes."
   image: "/friends/images/chlorine.webp"
   link: "https://chlo.is/"
+
+- title: "Rebel Zhang 的个人网站"
+  description: "Rebel Zhang 的个人网站"
+  image: "/friends/images/rebel1725.svg"
+  link: "https://rebel1725.codeberg.page/"
