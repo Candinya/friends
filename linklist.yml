@@ -204,3 +204,8 @@ friends:
   description: "银汉凝睫上，璇玑坠瞳渊~"
   image: "/friends/images/owo.webp"
   link: "https://www.owo.cab"
+
+- title: "探机之家"
+  description: "探机的自我修养"
+  image: "/friends/images/cclin.avif"
+  link: "https://cclin.org"
