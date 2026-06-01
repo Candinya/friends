@@ -209,3 +209,8 @@ friends:
   description: "探机的自我修养"
   image: "/friends/images/cclin.avif"
   link: "https://cclin.org"
+
+- title: "Han Chan's Blog"
+  description: "I love you and I'm not an artist."
+  image: "/friends/images/hanchan.webp"
+  link: "https://hanchan.vip/"
