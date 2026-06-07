@@ -214,3 +214,8 @@ friends:
   description: "I love you and I'm not an artist."
   image: "/friends/images/hanchan.webp"
   link: "https://hanchan.vip/"
+
+- title: "SamHou's Blog"
+  description: "Sleep for a better life."
+  image: "/friends/images/samhou.webp"
+  link: "https://blog.samhou.moe/"
